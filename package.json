@@ -1,0 +1,16 @@
+{
+  "name": "ssl-setup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "bin": "./index.js",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "8.2.3"
+  }
+}
